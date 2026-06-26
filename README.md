@@ -2,7 +2,7 @@
 
 **See what your stash in _TBH: Task Bar Hero_ is worth — in seconds, without opening Steam and without typing anything.**
 
-A free, read-only desktop app for Windows. It reads your game stash and shows **live Steam Community Market prices and buy orders**, so you know exactly what you own and what you could sell it for right now.
+A free, read-only desktop app for Windows. It reads your TBH stash and shows **live Steam Community Market prices and buy orders**, so you know exactly what you own and what you could sell it for right now.
 
 <p align="center">
   <a href="../../releases/latest"><b>⬇ Download the latest version</b></a>
@@ -20,9 +20,8 @@ A free, read-only desktop app for Windows. It reads your game stash and shows **
 | 🪙 | **Auto currency** — shows prices in **your Steam currency** automatically (Rupiah, USD, etc.). |
 | ⚡ | **Sort by demand or value** — find what sells fastest, or what's worth the most, at a glance. |
 | 🔄 | **Auto-updates itself** — new versions install in the background, no reinstalling. |
-| 🎮 | **Other Steam games too** — price list & search for CS2, TF2, Dota 2, Rust, or any AppID. |
 
-> The **automatic stash reading** is exclusive to TBH. For other games you still get the full price list and search.
+> Built specifically for **TBH: Task Bar Hero** — it finds and reads your stash automatically.
 
 ---
 
